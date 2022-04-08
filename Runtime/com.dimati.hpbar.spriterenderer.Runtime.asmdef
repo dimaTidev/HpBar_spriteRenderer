@@ -1,0 +1,16 @@
+{
+    "name": "com.dimati.hpbar.spriterenderer.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2e225e395fc253f45ab53fafd031e5d7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

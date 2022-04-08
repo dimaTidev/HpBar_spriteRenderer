@@ -1,0 +1,27 @@
+{
+    "name": "com.dimati.hpbar.spriterenderer",
+    "displayName": "HpBar spriteRender based",
+    "version": "0.0.1",
+    "unity": "2020.3",
+    "unityRelease": "",
+    "description": "HpBar spriteRender based",
+    "author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
+    "keywords": [],
+    "category": "Base",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dimaTidev/HpBar_spriteRenderer.git"
+    },
+    "gitDependencies": {
+        "com.dimatidev.methodsreflection": "https://github.com/dimaTidev/Package_MethodsReflection.git#0.0.6"
+    },
+    "dependencies": {
+    },
+    "samples": [
+        {
+            "displayName": "HpBar",
+            "description": "Contains sample prefab, texture, material",
+            "path": "Samples~/HpBar"
+        }
+    ]
+}
