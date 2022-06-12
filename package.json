@@ -1,7 +1,7 @@
 {
     "name": "com.dimati.hpbar.spriterenderer",
     "displayName": "HpBar spriteRender based",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "unity": "2020.3",
     "unityRelease": "",
     "description": "HpBar spriteRender based",
