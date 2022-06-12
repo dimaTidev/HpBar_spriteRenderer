@@ -1,4 +1,4 @@
-## How it works
+## How to setup
 
 1. Import sample
 2. Drag&Drop `HP_bar` prefab
