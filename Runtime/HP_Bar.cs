@@ -110,7 +110,7 @@ public class HP_Bar : MonoBehaviour
     /// <param name="value">Range(0,1)</param>
     public void SetValue(float value)
     {
-        Debug.Log("Take value = " + value);
+        //Debug.Log("Take value = " + value);
         gameObject.SetActive(true);
         //Debug.Log("take value" + value);
         if (value <= 0)
